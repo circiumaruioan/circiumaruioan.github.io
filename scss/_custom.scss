@@ -271,9 +271,9 @@ textarea:-moz-placeholder {
 // Yellow bar
 .category-icons {
     background-image: url('../assets/yellow-bg.png');
-    -webkit-box-shadow: inset 0px 9px 19px -9px rgba(176, 145, 9, 0.62);
-    -moz-box-shadow: inset 0px 9px 19px -9px rgba(176, 145, 9, 0.62);
-    box-shadow: inset 0px 9px 19px -9px rgba(176, 145, 9, 0.62);
+    -webkit-box-shadow: inset 0px 9px 19px -9px rgba(124, 183, 14, 0.62);
+    -moz-box-shadow: inset 0px 9px 19px -9px rgba(124, 183, 14, 0.62);
+    box-shadow: inset 0px 9px 19px -9px rgba(124, 183, 14, 0.62);
     .yellow-content {
         padding: rem-calc(50) 0;
         @include xy-grid();
